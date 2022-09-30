@@ -20,7 +20,7 @@ module.exports = {
   title: "Duc's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: 'https://30cm-my.sharepoint.com/personal/duc_30cm_onmicrosoft_com/_layouts/15/onedrive.aspx',
+  baseDirectory: 'https://30cm-my.sharepoint.com/:f:/g/personal/duc_30cm_onmicrosoft_com/EsmtkZ_-dQ9Hn50k-X3tGQwBaGYK04JpQpE0k1PTTAwBTg?e=5BdShG',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
