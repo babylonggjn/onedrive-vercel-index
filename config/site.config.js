@@ -41,8 +41,7 @@ module.exports = {
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
-  protectedRoutes: ['https://30cm-my.sharepoint.com/personal/duc_30cm_onmicrosoft_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fduc%5F30cm%5Fonmicrosoft%5Fcom%2FDocuments%2FTL', '/thanh1710'],
-
+ 
   // [OPTIONAL] Use "" here if you want to remove this email address from the nav bar.
   email: 'mailto:lazadashpy@gmail.com',
 
